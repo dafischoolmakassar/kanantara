@@ -22,12 +22,22 @@
 | 10 | [10-Strategi-Investasi-dan-Roadmap.md](10-Strategi-Investasi-dan-Roadmap.md) | Fase investasi 5 tahun |
 | 11 | [11-Produk-Turunan-dan-Visi-Jangka-Panjang.md](11-Produk-Turunan-dan-Visi-Jangka-Panjang.md) | Hilirisasi produk & visi akhir KANANTARA |
 | 12 | [12-Digital-Dashboard.md](12-Digital-Dashboard.md) | Dashboard digital untuk petani, pengurus, dan buyer |
+| 13 | [13-Proyeksi-Keuangan-5-Tahun.md](13-Proyeksi-Keuangan-5-Tahun.md) | Proyeksi P&L, arus kas, neraca 5 tahun |
+| 14 | [14-Kebutuhan-Modal-dan-Return-Investor.md](14-Kebutuhan-Modal-dan-Return-Investor.md) | Capex/opex per fase, struktur pendanaan, skema return investor |
+| 15 | [15-Break-Even-dan-Unit-Economics.md](15-Break-Even-dan-Unit-Economics.md) | BEP volume/harga & margin per kg per grade |
+| 16 | [16-Analisis-Risiko-dan-Skenario.md](16-Analisis-Risiko-dan-Skenario.md) | Matriks risiko & skenario pesimis/moderat/optimis |
+| 17 | [17-Analisis-Pasar-Global-Nilam.md](17-Analisis-Pasar-Global-Nilam.md) | Pasar global patchouli oil, kompetitor, buyer |
+| 18 | [18-Dampak-Sosial-dan-ESG.md](18-Dampak-Sosial-dan-ESG.md) | Dampak pendapatan petani, SDGs, metrik impact |
+| 19 | [19-Analisis-Kompetitif-dan-Benchmark.md](19-Analisis-Kompetitif-dan-Benchmark.md) | Benchmark tengkulak, ALKO, koperasi sejenis & moat |
+| 20 | [20-Kapasitas-Operasional-dan-Organisasi.md](20-Kapasitas-Operasional-dan-Organisasi.md) | Kapasitas infrastruktur, struktur SDM, SOP |
+| 21 | [21-Legal-Perizinan-dan-Sertifikasi.md](21-Legal-Perizinan-dan-Sertifikasi.md) | Struktur koperasi, perizinan, ekspor, sertifikasi |
+| 22 | [22-Branding-origin-dan-Go-to-Market.md](22-Branding-origin-dan-Go-to-Market.md) | Brand origin Indonesia, GTM, onboarding buyer |
 
 ---
 
 ## Cara Pakai untuk Presentasi
 
-1. Urutan file (00 → 12) sudah disusun mengikuti alur narasi investor pitch: **masalah → model → angka → mekanisme → risiko dikelola → roadmap → visi**.
+1. Urutan file (00 → 22) sudah disusun mengikuti alur narasi investor pitch: **masalah → model → angka → mekanisme → risiko dikelola → roadmap → visi → analisis lanjutan (keuangan, modal, risiko, pasar, ESG, kompetitif, operasional, legal, GTM)**.
 2. File **04** adalah inti argumen ekonomi ke petani — gunakan tabel sensitivitas pendapatan di sana sebagai slide "value proposition ke petani".
 3. Setiap file bisa langsung ditempel jadi 1–2 slide; tabel sudah dalam format Markdown siap-konversi (bisa di-paste ke Google Slides/Notion/Word).
 4. Sumber data mentah: `NILAM2.md` dan `NILAM2.docx` (folder induk `D:\Nilam`), serta diagram konsep `penjelasan-diagram-alko-kopi.md`.
