@@ -41,6 +41,8 @@
 2. File **04** adalah inti argumen ekonomi ke petani — gunakan tabel sensitivitas pendapatan di sana sebagai slide "value proposition ke petani".
 3. Setiap file bisa langsung ditempel jadi 1–2 slide; tabel sudah dalam format Markdown siap-konversi (bisa di-paste ke Google Slides/Notion/Word).
 4. Sumber data mentah: `NILAM2.md` dan `NILAM2.docx` (folder induk `D:\Nilam`), serta diagram konsep `penjelasan-diagram-alko-kopi.md`.
+5. Riset pasar pendukung (trend harga 10 tahun, harga terendah/tertinggi/rata-rata 5 tahun, HPP per hektar, skema koperasi, skema BPJS/asuransi/pendidikan, dan perhitungan dana cadangan per kg) ada di subfolder [Riset-Harga-HPP-dan-Skema-Koperasi/](Riset-Harga-HPP-dan-Skema-Koperasi/README.md).
+6. Perbandingan dua asumsi harga jual rata-rata (Rp 1,5 juta vs Rp 1,2 juta/kg) — termasuk analisis tekanan terhadap Harga Dasar petani dan rekomendasi mitigasi — ada di subfolder [Skenario-Harga-1.5jt-vs-1.2jt/](Skenario-Harga-1.5jt-vs-1.2jt/00-Kenapa-Ada-Dua-Asumsi-Harga.md). Materi di folder induk tidak diubah — folder ini murni pembanding.
 
 ## Catatan Penting
 
